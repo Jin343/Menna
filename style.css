@@ -383,6 +383,7 @@ rotate: 50deg;
     top: -15%;
    }
    #HowToDeal ul{
+ padding:0px 20px 0 0;
     font-size: var(--small-large) ;
    }
 }
