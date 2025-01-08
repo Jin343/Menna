@@ -433,7 +433,7 @@ html{
    height: 80vh;
   }
   #Inhaler .text  img{
-   top:90%;
+   top:85%;
    max-width: 90%;
   }
  }
@@ -459,7 +459,7 @@ html{
  @media (max-width:770px) {
   #Inhaler .descrption{
   padding: 10px 0px;
-   height: 50vh;
+   height: 47vh;
   }
  }
  #Inhaler .descrption p{
