@@ -375,6 +375,10 @@ top: 80%;
   width: 60%;
   top: 80%;
    }
+ @keyframes movin {
+ 100%{
+rotate: 50deg;
+ }
    #HowToDeal::after{
     top: -15%;
    }
