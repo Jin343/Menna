@@ -415,11 +415,11 @@ height:auto;
   height: 70vh;
  }
  #Inhaler{
-  height: 130vh;
+  height: 120vh;
  }
  #Inhaler .text  img{
   max-width: 80%;
-  top:91%;
+  top:100%;
  }
 }
 @media (max-width:770px) {
@@ -454,7 +454,7 @@ padding: 30px 40px;
 @media (max-width:770px) {
  #Inhaler .descrption{
  padding: 10px 0px;
-  height: 70vh;
+  height: 55vh;
  }
 }
 #Inhaler .descrption p{
